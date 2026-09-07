@@ -1,0 +1,50 @@
+[project]
+name = "graph_rag_workshop"
+version = "0.1.0"
+description = "Experiment with agents using Pydantic AI, creating programmable AI agents that can call tools to answer queries."
+readme = "README.md"
+authors = [{name = "Ornella Vaccarelli", email = "ornella.vaccarelli@hefr.ch"}, {name = "Federica Bove", email = "federica.bove@hefr.ch"}]
+requires-python = ">=3.13"
+dependencies = [
+    "chromadb>=1.5.5",
+    "ddgs>=9.9.1",
+    "langchain-text-splitters>=1.0.0",
+    "loguru>=0.7.3",
+    "markdownify>=1.2.2",
+    "neo4j>=5.28,<6",
+    "neo4j-graphrag>=1.19,<2",
+    "pdfminer-six>=20260107",
+    "pydantic>=2.12.4",
+    "fastmcp>=3.2.4,<4",
+    "pydantic-ai-slim[duckduckgo,mcp,openai,ui]>=1.90.0",
+    "python-dateutil>=2.9.0.post0",
+    "pyvis>=0.3.2",
+    "rapidocr>=3.8.1",
+    "rich>=14.1.0",
+    "uvicorn>=0.46.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.4.2",
+    "ruff>=0.12.12",
+]
+
+[tool.ruff]
+line-length = 88
+target-version = "py313"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "W"]
+ignore = ["E501"]
+
+[tool.ruff.lint.per-file-ignores]
+# Exercise imports are intentionally unused until participants replace `...`.
+"exercises/**/*.py" = ["F401"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[build-system]
+requires = ["uv_build>=0.10.6,<0.11.0"]
+build-backend = "uv_build"
