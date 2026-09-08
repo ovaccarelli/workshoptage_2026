@@ -1,5 +1,5 @@
 # Choose "ollama" for a local model or "vllm" for the shared HEIA model.
-LLM_PROVIDER = "ollama"
+LLM_PROVIDER = "ollama"  # or "vllm"
 
 # Option 1: Ollama running on the participant's computer.
 DEFAULT_OLLAMA_MODEL = "qwen3:1.7b"

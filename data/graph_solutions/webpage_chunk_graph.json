@@ -1,0 +1,387 @@
+{
+  "nodes": [
+    {
+      "id": "chunk:0",
+      "labels": [
+        "Section",
+        "Chunk"
+      ],
+      "properties": {
+        "index": 0,
+        "name": "Wayfarer",
+        "content": "# Wayfarer  \nAlpine retreats crafted for connection",
+        "section": "Wayfarer",
+        "heading_level": 1,
+        "part_index": 1,
+        "part_count": 1,
+        "source": "https://federicab03.github.io/ARGO_Usecase/index.html"
+      }
+    },
+    {
+      "id": "chunk:1",
+      "labels": [
+        "Section",
+        "Chunk"
+      ],
+      "properties": {
+        "index": 1,
+        "name": "Immersive Alpine Gatherings",
+        "content": "## Immersive Alpine Gatherings  \nTimeless hospitality, modern excellence  \nWayfarer creates unforgettable corporate retreats, executive offsites, and private celebrations in the Alps. We handle every detail\u2014from venue selection to multi-day programming.  \n- **14+** Years of experience  \n- **2** Curated venues  \n- **20-150** Guest capacity range",
+        "section": "Wayfarer > Immersive Alpine Gatherings",
+        "heading_level": 2,
+        "part_index": 1,
+        "part_count": 1,
+        "source": "https://federicab03.github.io/ARGO_Usecase/index.html"
+      }
+    },
+    {
+      "id": "chunk:2",
+      "labels": [
+        "Subsection",
+        "Chunk"
+      ],
+      "properties": {
+        "index": 2,
+        "name": "Every gathering is uniquely yours",
+        "content": "### Every gathering is uniquely yours  \nWe craft experiences tailored to your group's goals and culture. Whether you're aligning teams, celebrating milestones, or exploring strategic futures, we design the retreat to fit your vision.  \nOur curated venues, professional catering, and diverse activity offerings ensure each moment resonates with authenticity and purpose.",
+        "section": "Wayfarer > Immersive Alpine Gatherings > Every gathering is uniquely yours",
+        "heading_level": 3,
+        "part_index": 1,
+        "part_count": 1,
+        "source": "https://federicab03.github.io/ARGO_Usecase/index.html"
+      }
+    },
+    {
+      "id": "chunk:3",
+      "labels": [
+        "Subsection",
+        "Chunk"
+      ],
+      "properties": {
+        "index": 3,
+        "name": "Tailored experiences for every occasion",
+        "content": "### Tailored experiences for every occasion  \n- **Catering & Dining** Local alpine cuisine, dietary flexibility, and intimate dining formats designed to foster connection.  \n- **Activities & Entertainment** Guided hikes, storytelling sessions, workshops, live performances, and seasonal experiences.  \n- **Venue & Logistics** Two distinct Alpine venues with full accommodation, weather backup, and technical capabilities.",
+        "section": "Wayfarer > Immersive Alpine Gatherings > Tailored experiences for every occasion",
+        "heading_level": 3,
+        "part_index": 1,
+        "part_count": 1,
+        "source": "https://federicab03.github.io/ARGO_Usecase/index.html"
+      }
+    },
+    {
+      "id": "chunk:4",
+      "labels": [
+        "Section",
+        "Chunk"
+      ],
+      "properties": {
+        "index": 4,
+        "name": "There and Back Again",
+        "content": "## There and Back Again  \nMulti-day retreat  \nA fully customizable 3-day corporate retreat template showcasing our approach.  \nEvery itinerary is tailored to your group's objectives. This example shows how we structure time for team connection, skill-building, and celebration.  \n- **Day 1, 14:00** Arrivals and welcome reception  \n- **Day 1, 18:00** Dinner with local cuisine and wine pairing  \n- **Day 2, 08:00** Guided mountain hike or forest walk  \n- **Day 2, 12:00** Lunch with guest speaker or facilitated workshop  \n- **Day 2, 16:00** Breakout sessions and activities by group  \n- **Day 2, 19:30** Evening entertainment and storytelling session  \n- **Day 3, 09:00** Final workshop or strategic planning session  \n- **Day 3, 12:00** Closing celebration and farewell lunch  \n- **Day 3, 14:00** Departures",
+        "section": "Wayfarer > There and Back Again",
+        "heading_level": 2,
+        "part_index": 1,
+        "part_count": 1,
+        "source": "https://federicab03.github.io/ARGO_Usecase/pages/schedule.html"
+      }
+    },
+    {
+      "id": "chunk:5",
+      "labels": [
+        "Section",
+        "Chunk"
+      ],
+      "properties": {
+        "index": 5,
+        "name": "Catering & Dining",
+        "content": "## Catering & Dining  \nLocal & Seasonal  \nThoughtfully curated alpine cuisine designed to nourish and inspire connection.  \nWe believe great food brings people together. Our menus feature regional ingredients, artisanal producers, and flexible dining formats that suit corporate events, intimate celebrations, and large conferences.",
+        "section": "Wayfarer > Catering & Dining",
+        "heading_level": 2,
+        "part_index": 1,
+        "part_count": 1,
+        "source": "https://federicab03.github.io/ARGO_Usecase/pages/food.html"
+      }
+    },
+    {
+      "id": "chunk:6",
+      "labels": [
+        "Subsection",
+        "Chunk"
+      ],
+      "properties": {
+        "index": 6,
+        "name": "We accommodate all preferences",
+        "content": "### We accommodate all preferences  \n- **Vegetarian & Vegan** Full menus available. We work with local farms for seasonal vegetables and plant-based specialties.  \n- **Allergies & Intolerances** Gluten-free, dairy-free, nut-free options prepared separately with full traceability.  \n- **Cultural & Religious** Halal, kosher, and other dietary requirements accommodated with advance notice.",
+        "section": "Wayfarer > Catering & Dining > We accommodate all preferences",
+        "heading_level": 3,
+        "part_index": 1,
+        "part_count": 1,
+        "source": "https://federicab03.github.io/ARGO_Usecase/pages/food.html"
+      }
+    },
+    {
+      "id": "chunk:7",
+      "labels": [
+        "Section",
+        "Chunk"
+      ],
+      "properties": {
+        "index": 7,
+        "name": "Activities & Entertainment",
+        "content": "## Activities & Entertainment  \nEngagement & Inspiration  \nDiverse experiences designed to energize teams and create lasting memories.  \nBeyond the boardroom. Our activity roster includes guided adventures, skill-building workshops, cultural experiences, and professional entertainment\u2014all customizable to your group's interests and schedule.  \n- **Guided Experiences** Mountain hikes, forest walks, or photography expeditions led by local experts.  \n- **Workshops & Talks** Leadership sessions, creative skill-building, mindfulness practices, and curated guest speakers.  \n- **Evening Entertainment** Live acoustic performances, storytelling by firelight, and local cultural showcases.",
+        "section": "Wayfarer > Activities & Entertainment",
+        "heading_level": 2,
+        "part_index": 1,
+        "part_count": 1,
+        "source": "https://federicab03.github.io/ARGO_Usecase/pages/music.html"
+      }
+    },
+    {
+      "id": "chunk:8",
+      "labels": [
+        "Section",
+        "Chunk"
+      ],
+      "properties": {
+        "index": 8,
+        "name": "Our Venues",
+        "content": "## Our Venues  \nCurated Alpine Locations  \nTwo distinct venues, each with unique character, capacity, and capabilities.  \nWe've carefully selected two properties that balance luxury, accessibility, and authentic alpine character. Both offer full accommodation, extensive facilities, and year-round availability.  \n- **Party Tree Hall and Grounds** A charming meadowside hall inspired by tales of fellowship and gathering. Nestled in rolling green fields, perfect for intimate celebrations where companionship and connection flourish.  \n- **The White Tower Upper Gallery** Perched high upon dramatic heights, this noble stronghold commands panoramic vistas. A grand citadel of stone and light, designed for those who seek to gather their most important allies.",
+        "section": "Wayfarer > Our Venues",
+        "heading_level": 2,
+        "part_index": 1,
+        "part_count": 1,
+        "source": "https://federicab03.github.io/ARGO_Usecase/pages/venue.html"
+      }
+    },
+    {
+      "id": "chunk:9",
+      "labels": [
+        "Section",
+        "Chunk"
+      ],
+      "properties": {
+        "index": 9,
+        "name": "Frequently Asked Questions",
+        "content": "## Frequently Asked Questions  \nWorking with Wayfarer  \nEverything you need to know about planning a retreat with us.  \nHave questions about customization, logistics, pricing, or capabilities? We've compiled answers to common inquiries.  \n- **How far in advance should we book?** We recommend 3\u20136 months for corporate events to ensure venue and activity availability. Shorter timelines may be possible depending on dates and scale.  \n- **Can you accommodate groups of any size?** Our venues range from 20\u2013150 guests. For larger groups or bespoke requirements, we can coordinate multiple venues or partner spaces.  \n- **Are meals included in pricing?** Yes. All Wayfarer packages include full catering with customizable menus. Dietary preferences and restrictions are accommodated at no additional cost.  \n- **What happens if weather is poor?** Both venues include fully equipped indoor spaces and weather backup plans. All outdoor activities have indoor alternatives that maintain program integrity.  \n- **Do you provide accommodation?** Yes. Both venues include overnight accommodation. Room options range from standard doubles to suites. We also arrange transportation to/from airports or rail stations.  \n- **What activities are available?** Options include guided hikes, storytelling sessions, workshops, live performances, cooking classes, and custom team-building experiences. We tailor the roster to your group's objectives.  \n- **Can we bring our own speakers or facilitators?** Absolutely. We host client-led sessions, guest speakers, and custom programming alongside our own activity roster. All technical and logistical support is provided.  \n- **What is your cancellation policy?** Deposits are non-refundable but can be applied to future dates. For full terms, we discuss cancellation conditions during your proposal consultation.",
+        "section": "Wayfarer > Frequently Asked Questions",
+        "heading_level": 2,
+        "part_index": 1,
+        "part_count": 2,
+        "source": "https://federicab03.github.io/ARGO_Usecase/pages/faq.html"
+      }
+    },
+    {
+      "id": "chunk:10",
+      "labels": [
+        "NextPart",
+        "Chunk"
+      ],
+      "properties": {
+        "index": 10,
+        "name": "Frequently Asked Questions \u2014 Part 2",
+        "content": "- **What is your cancellation policy?** Deposits are non-refundable but can be applied to future dates. For full terms, we discuss cancellation conditions during your proposal consultation.  \n- **Do you handle transportation?** We arrange ground transportation between local airports and venues, plus any inter-venue or day-trip logistics your program requires.",
+        "section": "Wayfarer > Frequently Asked Questions",
+        "heading_level": 2,
+        "part_index": 2,
+        "part_count": 2,
+        "source": "https://federicab03.github.io/ARGO_Usecase/pages/faq.html"
+      }
+    },
+    {
+      "id": "chunk:11",
+      "labels": [
+        "Section",
+        "Chunk"
+      ],
+      "properties": {
+        "index": 11,
+        "name": "Request a Proposal",
+        "content": "## Request a Proposal  \nBegin Your Retreat  \nTell us about your vision. We'll craft a tailored proposal and guide you to the perfect Alpine gathering.  \nReady to bring your team together? Contact us to discuss group size, dates, objectives, and any special requirements. We'll build a customized experience from the ground up.  \n- **Project Lead** Wayfarer Retreat Planning  \n- **Email** hello@wayfarer-retreats.alpine  \n- **Phone** +39 258 256 1209",
+        "section": "Wayfarer > Request a Proposal",
+        "heading_level": 2,
+        "part_index": 1,
+        "part_count": 1,
+        "source": "https://federicab03.github.io/ARGO_Usecase/pages/contact.html"
+      }
+    },
+    {
+      "id": "chunk:12",
+      "labels": [
+        "Section",
+        "Chunk"
+      ],
+      "properties": {
+        "index": 12,
+        "name": "Party Tree Hall and Grounds",
+        "content": "## Party Tree Hall and Grounds  \nIntimate Alpine Venue  \nA historic community gathering space in the heart of Michel Delving, combining rustic charm, open-air surroundings, and practical event facilities for relaxed, convivial celebrations.  \nNestled among the green of central Michel Delving, the Party Tree Hall offers a welcoming setting for an evening of food, music, and fellowship. Its spacious ground-level reception area provides direct loading access for catering and music equipment, while the adjoining courtyard offers an open-air extension of the gathering with clear sightlines and easy guest circulation. Dedicated preparation and staging areas remain separate from attendee spaces, supporting smooth transitions throughout the evening.  \n- Capacity: 20\u201390 guests  \n- 32 en-suite bedrooms  \n- Fully accessible ground-level layout  \n- Direct loading access for event setup  \n- Indoor hall and adjoining courtyard  \n- Dedicated food preparation and staging areas  \n- Clear emergency access routes  \n- Hiking trails from the property  \n- Available year-round",
+        "section": "Wayfarer > Party Tree Hall and Grounds",
+        "heading_level": 2,
+        "part_index": 1,
+        "part_count": 1,
+        "source": "https://federicab03.github.io/ARGO_Usecase/venues/partyfield.html"
+      }
+    },
+    {
+      "id": "chunk:13",
+      "labels": [
+        "Section",
+        "Chunk"
+      ],
+      "properties": {
+        "index": 13,
+        "name": "The White Tower Upper Gallery",
+        "content": "## The White Tower Upper Gallery  \nGrand Alpine Venue  \nA remarkable hilltop setting combining historic architecture, panoramic city views, and elevated terraces for memorable gatherings, formal events, and distinctive presentations.  \nPerched high above the city with commanding panoramic views, The White Tower Upper Gallery offers a truly distinctive backdrop for an Alpine evening. Its elevated terraces and eastern balcony provide natural sightlines across the city walls, making the setting particularly compelling for acoustic performances and outdoor moments. The venue's historic architecture creates an atmosphere of grandeur, while its multi-level layout brings a unique character to the flow of the evening. Guests should note that some areas are connected by a central spiral staircase and narrow internal corridors, and event logistics require coordination between levels.  \n- Capacity: 40\u2013150 guests  \n- 55 guest rooms (multiple configurations)  \n- Elevator access to principal levels  \n- Grand gallery and breakout spaces  \n- Panoramic city and mountain views  \n- Elevated terraces for receptions  \n- Eastern balcony suited to acoustic performances  \n- Multi-level catering and event setup  \n- Historic architecture and distinctive interiors  \n- Year-round operation",
+        "section": "Wayfarer > The White Tower Upper Gallery",
+        "heading_level": 2,
+        "part_index": 1,
+        "part_count": 1,
+        "source": "https://federicab03.github.io/ARGO_Usecase/venues/minastirith.html"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "chunk:0",
+      "relation": "SECTION",
+      "target": "chunk:1",
+      "properties": {
+        "parent_section": "Wayfarer",
+        "child_section": "Wayfarer > Immersive Alpine Gatherings"
+      }
+    },
+    {
+      "source": "chunk:0",
+      "relation": "SECTION",
+      "target": "chunk:4",
+      "properties": {
+        "parent_section": "Wayfarer",
+        "child_section": "Wayfarer > There and Back Again"
+      }
+    },
+    {
+      "source": "chunk:0",
+      "relation": "SECTION",
+      "target": "chunk:5",
+      "properties": {
+        "parent_section": "Wayfarer",
+        "child_section": "Wayfarer > Catering & Dining"
+      }
+    },
+    {
+      "source": "chunk:0",
+      "relation": "SECTION",
+      "target": "chunk:7",
+      "properties": {
+        "parent_section": "Wayfarer",
+        "child_section": "Wayfarer > Activities & Entertainment"
+      }
+    },
+    {
+      "source": "chunk:0",
+      "relation": "SECTION",
+      "target": "chunk:8",
+      "properties": {
+        "parent_section": "Wayfarer",
+        "child_section": "Wayfarer > Our Venues"
+      }
+    },
+    {
+      "source": "chunk:0",
+      "relation": "SECTION",
+      "target": "chunk:9",
+      "properties": {
+        "parent_section": "Wayfarer",
+        "child_section": "Wayfarer > Frequently Asked Questions"
+      }
+    },
+    {
+      "source": "chunk:0",
+      "relation": "SECTION",
+      "target": "chunk:11",
+      "properties": {
+        "parent_section": "Wayfarer",
+        "child_section": "Wayfarer > Request a Proposal"
+      }
+    },
+    {
+      "source": "chunk:1",
+      "relation": "SUBSECTION",
+      "target": "chunk:2",
+      "properties": {
+        "parent_section": "Wayfarer > Immersive Alpine Gatherings",
+        "child_section": "Wayfarer > Immersive Alpine Gatherings > Every gathering is uniquely yours"
+      }
+    },
+    {
+      "source": "chunk:1",
+      "relation": "SUBSECTION",
+      "target": "chunk:3",
+      "properties": {
+        "parent_section": "Wayfarer > Immersive Alpine Gatherings",
+        "child_section": "Wayfarer > Immersive Alpine Gatherings > Tailored experiences for every occasion"
+      }
+    },
+    {
+      "source": "chunk:5",
+      "relation": "SUBSECTION",
+      "target": "chunk:6",
+      "properties": {
+        "parent_section": "Wayfarer > Catering & Dining",
+        "child_section": "Wayfarer > Catering & Dining > We accommodate all preferences"
+      }
+    },
+    {
+      "source": "chunk:9",
+      "relation": "NEXT_PART",
+      "target": "chunk:10",
+      "properties": {
+        "section": "Wayfarer > Frequently Asked Questions"
+      }
+    },
+    {
+      "source": "chunk:3",
+      "relation": "SUBSECTION",
+      "target": "chunk:5",
+      "properties": {
+        "review_evidence": "Tailored experiences for every occasion explicitly lists Catering & Dining, and chunk:5 is the corresponding detail section.",
+        "review_confidence_percent": 86
+      }
+    },
+    {
+      "source": "chunk:3",
+      "relation": "SUBSECTION",
+      "target": "chunk:7",
+      "properties": {
+        "review_evidence": "Tailored experiences for every occasion explicitly lists Activities & Entertainment, and chunk:7 is the corresponding detail section.",
+        "review_confidence_percent": 86
+      }
+    },
+    {
+      "source": "chunk:3",
+      "relation": "SUBSECTION",
+      "target": "chunk:8",
+      "properties": {
+        "review_evidence": "Tailored experiences for every occasion explicitly lists Venue & Logistics, and chunk:8 is the corresponding Our Venues detail section.",
+        "review_confidence_percent": 86
+      }
+    },
+    {
+      "source": "chunk:8",
+      "relation": "SUBSECTION",
+      "target": "chunk:12",
+      "properties": {
+        "review_evidence": "Our Venues explicitly introduces Party Tree Hall and Grounds, and chunk:12 is the corresponding venue detail page.",
+        "review_confidence_percent": 90
+      }
+    },
+    {
+      "source": "chunk:8",
+      "relation": "SUBSECTION",
+      "target": "chunk:13",
+      "properties": {
+        "review_evidence": "Our Venues explicitly introduces The White Tower Upper Gallery, and chunk:13 is the corresponding venue detail page.",
+        "review_confidence_percent": 90
+      }
+    }
+  ]
+}
