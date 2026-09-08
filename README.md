@@ -192,6 +192,19 @@ docker run --name neo4j-workshop -p 7474:7474 -p 7687:7687 \
   -e NEO4J_AUTH=neo4j/password123 neo4j:latest
 ```
 
+FIX FOR TODAY (2026.09.08)
+
+```bash
+docker rm -f neo4j-workshop
+docker run --name neo4j-workshop \
+  -p 7474:7474 -p 7687:7687 \
+  -e NEO4J_AUTH=neo4j/password123 \
+  -e NEO4J_PLUGINS='["apoc"]' \
+  -e NEO4J_dbms_security_procedures_unrestricted="apoc.*" \
+  -e NEO4J_dbms_security_procedures_allowlist="apoc.*" \
+  neo4j:latest
+```
+
 The structural graph writer removes only nodes marked as belonging to this
 workshop's structural graph. It does not clear unrelated or semantic graph data.
 
