@@ -1,4 +1,4 @@
-"""Solution for the step-by-step RAG exercise from a webpage.
+"""RAG exercise from a webpage
 
 This script extracts a JavaScript-rendered website as Markdown, stores chunks in
 ChromaDB, retrieves relevant chunks for a question, and asks the model to answer
