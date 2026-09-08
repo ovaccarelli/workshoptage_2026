@@ -184,12 +184,12 @@ def retrieve_context(
         include=["documents"],
     )
 
-    retrieved_chunks = results.get("documents", [[]])[0]
+    retrieved_chunks = results.get("documents", [[]])
 
     if not retrieved_chunks:
         return "No relevant webpage chunks were found."
 
-    return "\n\n------------\n\n".join(retrieved_chunks)
+    return "\n\n------------\n\n".join(retrieved_chunks[0])
 
 
 retrieved_context = retrieve_context(
