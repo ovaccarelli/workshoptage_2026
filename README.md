@@ -139,7 +139,7 @@ Note: the first run can take a few seconds because Ollama has to load the
 ## Project Structure
 
 | Directory | Purpose |
-|---|---|
+| --- | --- |
 | `data/my_documents/` | Rivendell event PDF and image documents |
 | `data/webpage_rag/` | Extracted webpage Markdown and saved webpage chunks |
 | `data/vectorstores/` | ChromaDB vector store |
@@ -156,7 +156,7 @@ Note: the first run can take a few seconds because Ollama has to load the
 ### Part 01 — Agents, Document Tools, and Webpage RAG
 
 | Script | What it does |
-|---|---|
+| --- | --- |
 | [`01_entry_point.py`](exercises/part_01/01_entry_point.py) | Minimal agent and smoke test (CLI and web app on port 8000) |
 | [`02_document_tools.py`](exercises/part_01/02_document_tools.py) | Lists workshop documents and extracts text from PDF/image files (CLI) |
 | [`03_webpage_rag.py`](exercises/part_01/03_webpage_rag.py) | Extracts, chunks, indexes, retrieves, and answers from a webpage |
@@ -172,7 +172,7 @@ uv run python exercises/part_01/03_webpage_rag.py
 ### Part 02 — Structural Graph Construction and Graph-RAG
 
 | Script | What it does |
-|---|---|
+| --- | --- |
 | [`01_graph_construction.py`](exercises/part_02/01_graph_construction.py) | Builds and reviews a structural graph from the saved webpage chunks |
 | [`02_graph_rag.py`](exercises/part_02/02_graph_rag.py) | Adds all one-hop graph neighbors to the retrieved RAG chunks |
 | [`03_simpleKG_construction.py`](exercises/part_02/03_simpleKG_construction.py) | Bonus: builds a semantic entity graph in Neo4j |
@@ -202,7 +202,7 @@ workshop's structural graph. It does not clear unrelated or semantic graph data.
 This part exposes the workshop capabilities as tools an agent can call.
 
 | Script | What it does |
-|---|---|
+| --- | --- |
 | [`01_simple_tool_call.py`](exercises/part_03/01_simple_tool_call.py) | Agent with a simple date/time tool (web app on port 8000) |
 | [`02_graph_rag_tool.py`](exercises/part_03/02_graph_rag_tool.py) | Agent with Graph-RAG exposed as a tool (web app on port 8000) |
 | [`03_document_tools_agent.py`](exercises/part_03/03_document_tools_agent.py) | Agent with document, Graph-RAG, and resilient web-search tools |
@@ -221,7 +221,7 @@ This part exposes the same Wayfarer webpage Graph-RAG from Parts 02 and 03
 through an MCP server. Run the server and agent in two separate terminals.
 
 | Script | What it does |
-|---|---|
+| --- | --- |
 | [`01a_mcp_rag_server.py`](exercises/part_04/01a_mcp_rag_server.py) | Serves `search_wayfarer_webpage_graph_rag` over MCP on port 8001 |
 | [`01b_simple_mcp_rag_agent.py`](exercises/part_04/01b_simple_mcp_rag_agent.py) | Connects an agent to the Wayfarer Graph-RAG MCP tool |
 | [`02_mcp_document_web_agent.py`](exercises/part_04/02_mcp_document_web_agent.py) | Combines MCP Graph-RAG, local document tools, and web search |
